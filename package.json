@@ -1,7 +1,7 @@
 {
-  "name": "print-1to100",
+  "name": "vishal-sharma",
   "version": "1.0.0",
-  "description": "print 1 to 100",
+  "description": "day-3-hw",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,6 +13,6 @@
   "author": "whisual",
   "license": "ISC",
   "dependencies": {
-    "print-1to100": "^1.0.0"
+    "vishal-sharma": "^1.0.0"
   }
 }
